@@ -1,0 +1,99 @@
+
+body {
+	width: 960px;
+	font-family: helvetica, sans-serif;
+    color: #ff7148;
+    text-align: center;
+}
+.GAstop {
+
+	font-size: 1.5em;
+	
+}
+input{
+	width: 300px;
+	/*display: block;*/
+	/*margin-left: 25	0px;*/
+}
+img {
+	height: 100px;
+	width: 150px;
+	margin-left: -450px;
+	position: absolute;
+	margin-top: 50px;
+	z-index: 1;
+}
+
+hr {
+	width: 655px;
+	margin-right: 10px;
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 160px;
+}
+.button {
+	background-color: #93b1c6;
+	border-radius: 5px;
+	padding: 5px;
+	margin-top: 15px;
+	margin-right: 20px;
+	color: white;
+}
+.backBtn {
+	background-color: #ff7148;
+	border-radius: 5px;
+	padding: 5px;
+	display: inline-block;
+	margin-left: 5px;
+	color: white;
+	}
+#submit{
+	display:inline-block;
+	margin-left: 30px;
+}
+#useLoc{
+	display: inline-block;
+}
+.pgStyle {
+    width: 960px;
+	height: 1000px;
+    padding-top: 50px;
+    background-color: #c7d0d5;
+}
+#firstPage {
+	
+	display: block;
+}
+#secondPage {
+	/*display: block;*/
+	
+}
+.busBtn{
+	background-color: #93b1c6;
+	border-radius: 5px;
+	padding: 5px;
+	width:80px;
+	color: white;
+	margin-bottom: 15px;
+	margin-left: 440px;
+	cursor: pointer;
+	border: 1px solid grey;
+}
+.busBtn:hover{
+	background-color: #ec583a; #93b1c6
+}
+#busList{
+	height: 400px;
+}
+#thirdPage{
+	background-color: #FCFFC7;
+
+}
+#yrStop{
+	position: absolute;
+	margin-left: 825px;
+	margin-top: 50px;
+}
+#yrStop p {
+	font-size: .85em;
+}
