@@ -1,5 +1,5 @@
 # GAbustracker
-Final project for my front end web development (FEWD) course at General Assembly.
+Final project for my front end web development (FEWD Spring 2014) course at General Assembly.
 
 Using the MTA's SIRI API, I wanted to show how far away buses are from GA NYC campuses. 
 
